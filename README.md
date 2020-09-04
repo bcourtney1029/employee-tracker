@@ -17,7 +17,6 @@ npm install mysql
 ```javascript
 node app.js
 ```
-[Video of the application in use]() 
 
 
 ## License
